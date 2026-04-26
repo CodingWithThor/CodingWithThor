@@ -7,7 +7,7 @@ I’m a Cybersecurity Developer pivoting toward Purple Teaming. I bridge the gap
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/j-troka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0202KuBa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:j.troka270@gmail.com) 
 
 # 💻 Tech Stack:
-![Purple Team] (https://img.shields.io/badge/PURPLE_TEAM-7851a9?style=for-the-badge&logo=metasploit&logoColor=white)
+![Purple Team](https://img.shields.io/badge/PURPLE_TEAM-7851a9?style=for-the-badge&logo=target&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-%2330CBFF.svg?style=for-the-badge&logo=ParrotOS&logoColor=black) 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white) 
 ![Nmap](https://img.shields.io/badge/Nmap-%234FAD5B.svg?style=for-the-badge&logo=nmap&logoColor=white)
