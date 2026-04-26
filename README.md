@@ -1,9 +1,10 @@
 # 💫 About Me:
-👋 Hi! I'm a developer focused on cybersecurity, automation, and AI-assisted tools.<br>I build local-first solutions — from anti-plagiarism & anti-AI apps, through pentesting utilities, to voice and productivity assistants in SwiftUI and Python.<br><br>I’m also expanding my skills toward operational cybersecurity (FBI/LE track), while experimenting with game development (Unity/Godot) and creative side-projects.<br>I enjoy clean tooling, Linux environments, and pushing ideas into real, working software.
+👋 Hi! I'm Thor.
+I’m a Cybersecurity Developer pivoting toward Purple Teaming. I bridge the gap between offensive operations and defensive hardening by building custom, local-first security tooling.
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Hz9hGbyFWs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coding.with.thor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/j-troka) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@code_with_thor) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/prodbykuba) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0202KuBa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AiWithThor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:j.troka270@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/j-troka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0202KuBa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:j.troka270@gmail.com) 
 
 # 💻 Tech Stack:
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-%2330CBFF.svg?style=for-the-badge&logo=ParrotOS&logoColor=black) 
